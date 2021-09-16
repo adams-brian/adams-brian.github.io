@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/math-app/static/css/main.ce5795c4.chunk.css",
-    "main.js": "/math-app/static/js/main.96bd5e09.chunk.js",
-    "main.js.map": "/math-app/static/js/main.96bd5e09.chunk.js.map",
+    "main.css": "/math-app/static/css/main.ad0ea205.chunk.css",
+    "main.js": "/math-app/static/js/main.48a6659f.chunk.js",
+    "main.js.map": "/math-app/static/js/main.48a6659f.chunk.js.map",
     "runtime-main.js": "/math-app/static/js/runtime-main.ffe949c2.js",
     "runtime-main.js.map": "/math-app/static/js/runtime-main.ffe949c2.js.map",
     "static/js/2.0d2e447f.chunk.js": "/math-app/static/js/2.0d2e447f.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.cd40334e.chunk.js": "/math-app/static/js/3.cd40334e.chunk.js",
     "static/js/3.cd40334e.chunk.js.map": "/math-app/static/js/3.cd40334e.chunk.js.map",
     "index.html": "/math-app/index.html",
-    "static/css/main.ce5795c4.chunk.css.map": "/math-app/static/css/main.ce5795c4.chunk.css.map",
+    "static/css/main.ad0ea205.chunk.css.map": "/math-app/static/css/main.ad0ea205.chunk.css.map",
     "static/js/2.0d2e447f.chunk.js.LICENSE.txt": "/math-app/static/js/2.0d2e447f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ffe949c2.js",
     "static/js/2.0d2e447f.chunk.js",
-    "static/css/main.ce5795c4.chunk.css",
-    "static/js/main.96bd5e09.chunk.js"
+    "static/css/main.ad0ea205.chunk.css",
+    "static/js/main.48a6659f.chunk.js"
   ]
 }
