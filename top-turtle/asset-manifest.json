@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/top-turtle/static/css/main.eed520ed.chunk.css",
+    "main.css": "/top-turtle/static/css/main.f9146597.chunk.css",
     "main.js": "/top-turtle/static/js/main.df71eb69.chunk.js",
     "main.js.map": "/top-turtle/static/js/main.df71eb69.chunk.js.map",
     "runtime-main.js": "/top-turtle/static/js/runtime-main.440c118f.js",
@@ -10,13 +10,13 @@
     "static/js/3.e9389601.chunk.js": "/top-turtle/static/js/3.e9389601.chunk.js",
     "static/js/3.e9389601.chunk.js.map": "/top-turtle/static/js/3.e9389601.chunk.js.map",
     "index.html": "/top-turtle/index.html",
-    "static/css/main.eed520ed.chunk.css.map": "/top-turtle/static/css/main.eed520ed.chunk.css.map",
+    "static/css/main.f9146597.chunk.css.map": "/top-turtle/static/css/main.f9146597.chunk.css.map",
     "static/js/2.c875676a.chunk.js.LICENSE.txt": "/top-turtle/static/js/2.c875676a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.440c118f.js",
     "static/js/2.c875676a.chunk.js",
-    "static/css/main.eed520ed.chunk.css",
+    "static/css/main.f9146597.chunk.css",
     "static/js/main.df71eb69.chunk.js"
   ]
 }
