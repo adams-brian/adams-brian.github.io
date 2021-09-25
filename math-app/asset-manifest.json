@@ -1,24 +1,28 @@
 {
   "files": {
-    "main.css": "/math-app/static/css/main.574fd3c4.chunk.css",
-    "main.js": "/math-app/static/js/main.9e47ac90.chunk.js",
-    "main.js.map": "/math-app/static/js/main.9e47ac90.chunk.js.map",
-    "runtime-main.js": "/math-app/static/js/runtime-main.7ea82977.js",
-    "runtime-main.js.map": "/math-app/static/js/runtime-main.7ea82977.js.map",
-    "static/js/2.f4ea94ec.chunk.js": "/math-app/static/js/2.f4ea94ec.chunk.js",
-    "static/js/2.f4ea94ec.chunk.js.map": "/math-app/static/js/2.f4ea94ec.chunk.js.map",
-    "static/js/3.c08a20d7.chunk.js": "/math-app/static/js/3.c08a20d7.chunk.js",
-    "static/js/3.c08a20d7.chunk.js.map": "/math-app/static/js/3.c08a20d7.chunk.js.map",
+    "main.css": "/math-app/static/css/main.d085175e.chunk.css",
+    "main.js": "/math-app/static/js/main.ce7ddfb7.chunk.js",
+    "main.js.map": "/math-app/static/js/main.ce7ddfb7.chunk.js.map",
+    "runtime-main.js": "/math-app/static/js/runtime-main.f6573fde.js",
+    "runtime-main.js.map": "/math-app/static/js/runtime-main.f6573fde.js.map",
+    "static/css/2.63995ddc.chunk.css": "/math-app/static/css/2.63995ddc.chunk.css",
+    "static/js/2.249d136e.chunk.js": "/math-app/static/js/2.249d136e.chunk.js",
+    "static/js/2.249d136e.chunk.js.map": "/math-app/static/js/2.249d136e.chunk.js.map",
+    "static/js/3.43d9fb14.chunk.js": "/math-app/static/js/3.43d9fb14.chunk.js",
+    "static/js/3.43d9fb14.chunk.js.map": "/math-app/static/js/3.43d9fb14.chunk.js.map",
     "index.html": "/math-app/index.html",
     "service-worker.js": "/math-app/service-worker.js",
     "service-worker.js.map": "/math-app/service-worker.js.map",
-    "static/css/main.574fd3c4.chunk.css.map": "/math-app/static/css/main.574fd3c4.chunk.css.map",
-    "static/js/2.f4ea94ec.chunk.js.LICENSE.txt": "/math-app/static/js/2.f4ea94ec.chunk.js.LICENSE.txt"
+    "static/css/2.63995ddc.chunk.css.map": "/math-app/static/css/2.63995ddc.chunk.css.map",
+    "static/css/main.d085175e.chunk.css.map": "/math-app/static/css/main.d085175e.chunk.css.map",
+    "static/js/2.249d136e.chunk.js.LICENSE.txt": "/math-app/static/js/2.249d136e.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/math-app/static/media/fredoka-one-latin-400-normal.8a253445.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.7ea82977.js",
-    "static/js/2.f4ea94ec.chunk.js",
-    "static/css/main.574fd3c4.chunk.css",
-    "static/js/main.9e47ac90.chunk.js"
+    "static/js/runtime-main.f6573fde.js",
+    "static/css/2.63995ddc.chunk.css",
+    "static/js/2.249d136e.chunk.js",
+    "static/css/main.d085175e.chunk.css",
+    "static/js/main.ce7ddfb7.chunk.js"
   ]
 }
