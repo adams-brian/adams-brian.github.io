@@ -1,22 +1,28 @@
 {
   "files": {
-    "main.css": "/top-turtle/static/css/main.f9146597.chunk.css",
-    "main.js": "/top-turtle/static/js/main.df71eb69.chunk.js",
-    "main.js.map": "/top-turtle/static/js/main.df71eb69.chunk.js.map",
-    "runtime-main.js": "/top-turtle/static/js/runtime-main.440c118f.js",
-    "runtime-main.js.map": "/top-turtle/static/js/runtime-main.440c118f.js.map",
-    "static/js/2.c875676a.chunk.js": "/top-turtle/static/js/2.c875676a.chunk.js",
-    "static/js/2.c875676a.chunk.js.map": "/top-turtle/static/js/2.c875676a.chunk.js.map",
-    "static/js/3.e9389601.chunk.js": "/top-turtle/static/js/3.e9389601.chunk.js",
-    "static/js/3.e9389601.chunk.js.map": "/top-turtle/static/js/3.e9389601.chunk.js.map",
+    "main.css": "/top-turtle/static/css/main.f0e9fcf6.chunk.css",
+    "main.js": "/top-turtle/static/js/main.5ec4f2a3.chunk.js",
+    "main.js.map": "/top-turtle/static/js/main.5ec4f2a3.chunk.js.map",
+    "runtime-main.js": "/top-turtle/static/js/runtime-main.455c7333.js",
+    "runtime-main.js.map": "/top-turtle/static/js/runtime-main.455c7333.js.map",
+    "static/css/2.5ab9a7cc.chunk.css": "/top-turtle/static/css/2.5ab9a7cc.chunk.css",
+    "static/js/2.057a7dbd.chunk.js": "/top-turtle/static/js/2.057a7dbd.chunk.js",
+    "static/js/2.057a7dbd.chunk.js.map": "/top-turtle/static/js/2.057a7dbd.chunk.js.map",
+    "static/js/3.635f622e.chunk.js": "/top-turtle/static/js/3.635f622e.chunk.js",
+    "static/js/3.635f622e.chunk.js.map": "/top-turtle/static/js/3.635f622e.chunk.js.map",
     "index.html": "/top-turtle/index.html",
-    "static/css/main.f9146597.chunk.css.map": "/top-turtle/static/css/main.f9146597.chunk.css.map",
-    "static/js/2.c875676a.chunk.js.LICENSE.txt": "/top-turtle/static/js/2.c875676a.chunk.js.LICENSE.txt"
+    "service-worker.js": "/top-turtle/service-worker.js",
+    "service-worker.js.map": "/top-turtle/service-worker.js.map",
+    "static/css/2.5ab9a7cc.chunk.css.map": "/top-turtle/static/css/2.5ab9a7cc.chunk.css.map",
+    "static/css/main.f0e9fcf6.chunk.css.map": "/top-turtle/static/css/main.f0e9fcf6.chunk.css.map",
+    "static/js/2.057a7dbd.chunk.js.LICENSE.txt": "/top-turtle/static/js/2.057a7dbd.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/top-turtle/static/media/luckiest-guy-latin-400-normal.fb2cf90d.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.440c118f.js",
-    "static/js/2.c875676a.chunk.js",
-    "static/css/main.f9146597.chunk.css",
-    "static/js/main.df71eb69.chunk.js"
+    "static/js/runtime-main.455c7333.js",
+    "static/css/2.5ab9a7cc.chunk.css",
+    "static/js/2.057a7dbd.chunk.js",
+    "static/css/main.f0e9fcf6.chunk.css",
+    "static/js/main.5ec4f2a3.chunk.js"
   ]
 }
