@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.30630f42.css",
+    "main.js": "/static/js/main.64fd4bbf.js",
+    "static/js/787.29b4383e.chunk.js": "/static/js/787.29b4383e.chunk.js",
+    "static/media/9_of_spades.png": "/static/media/9_of_spades.dcce4a160670652e0ffe.png",
+    "static/media/queen_of_hearts.png": "/static/media/queen_of_hearts.1d86243c217f3f7f3869.png",
+    "static/media/10_of_diamonds.png": "/static/media/10_of_diamonds.f5f2d107605011ac11f3.png",
+    "static/media/ace_of_clubs.png": "/static/media/ace_of_clubs.f2dd09c014f9a968db89.png",
+    "static/media/7_of_diamonds.png": "/static/media/7_of_diamonds.fe13bd1ba1c4b66c99d1.png",
+    "static/media/5_of_hearts.png": "/static/media/5_of_hearts.f407aa6fa30d7a8a1683.png",
+    "static/media/3_of_clubs.png": "/static/media/3_of_clubs.bbea0442d0b02b9f8b3d.png",
+    "static/media/4_of_spades.png": "/static/media/4_of_spades.8f0668446faa6a9e9852.png",
+    "index.html": "/index.html",
+    "main.30630f42.css.map": "/static/css/main.30630f42.css.map",
+    "main.64fd4bbf.js.map": "/static/js/main.64fd4bbf.js.map",
+    "787.29b4383e.chunk.js.map": "/static/js/787.29b4383e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30630f42.css",
+    "static/js/main.64fd4bbf.js"
+  ]
+}
